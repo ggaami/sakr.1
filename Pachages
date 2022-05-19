@@ -1,0 +1,26 @@
+Packages: معرف ا لا د ا ة 
+Version: ا لا صد ا ر
+Architecture: اكتب اسمك 
+Depends: المتطلبات
+Conflicts: موقع الملف 
+Size: 
+MD5sum:
+SHA1:
+SHA256:
+section: Tweaks
+Depiction: ر ابط صفحة الوصف 
+Name: اسم الاداه
+
+Packages: cokepokes.github.appstoreplus
+Version: 0.9.5
+Architecture: اكتب اسمك 
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename:test_com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb 
+Size: 952941
+MD5sum:b70f64152c2bee7366c612de148afee1
+SHA1:5305b931251de006d8abcc4fa604180cae609c89
+SHA256:d53b82edf9cbf989965ef38c2d542b55da0860347a0612b43f18e53affec86ca
+section: Tweaks
+Depiction: htpps://sakr1.github.io/sakr1
+Name: appstore++
